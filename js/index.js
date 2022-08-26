@@ -82,5 +82,5 @@ function mobileHandler(){
 
 function alertSim()
 {
-alert("Obaaa!!! Meu pix é 48991686836 ❤️");
+alert("Obaaa!!! Meu pix é keliven.demarchi@gmail.com ❤️");
 }
