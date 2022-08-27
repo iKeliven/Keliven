@@ -80,7 +80,7 @@ function mobileHandler(){
 }
 
 
-function alertSim()
+function alertSimKeliven()
 {
 alert("Obaaa!!! Meu pix é keliven.demarchi@gmail.com ❤️");
 }
